@@ -13,7 +13,19 @@
   <a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
 </span>
-
+<span class="badge">내용</span>
+.badge {
+  display: inline-block;
+  padding: 5px 10px; /* 상하, 좌우 패딩 */
+  background-color: #007bff; /* 배경 색깔 */
+  color: #ffffff; /* 글자 색깔 */
+  border-radius: 5px; /* 모서리 둥글게 */
+  font-size: 14px; /* 글자 크기 */
+  font-family: Arial, sans-serif; /* 글꼴 */
+}
+.badge:hover {
+  background-color: #0056b3; /* 마우스 오버 시 배경 색깔 */
+}
 <br>
 <br>
 <br>
