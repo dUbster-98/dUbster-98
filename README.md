@@ -9,7 +9,7 @@
   </a>
   &nbsp;
   <a>
-    <img src="https://img.shields.io/badge/.NET-ff69b4?style=plastic&logo=.NET&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=.NET&logoColor=white"/>
   </a>
 </span>
 
