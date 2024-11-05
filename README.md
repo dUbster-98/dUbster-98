@@ -7,7 +7,7 @@
 <span>
   <a><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>  
   <a><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
